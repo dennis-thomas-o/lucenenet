@@ -1,4 +1,6 @@
-﻿=================== Release 4.8.0-beta00005 =====================
+Forked for testing changes in sandbox
+
+=================== Release 4.8.0-beta00005 =====================
 
 Bug
 •	Added [Obsolete] attribute to Lucene.Net.Field extension methods that are only for
